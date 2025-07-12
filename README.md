@@ -1,2 +1,2 @@
-# shopping-site
-hey there i am a new website developer
+# Stylish Collection
+All stylish things are available
